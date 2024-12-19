@@ -1,0 +1,4 @@
+,Logistic Regression,Neural Network,Linearization
+FAR (%),0.0,0.312 ± 0.419,0.625 ± 0.484
+TTD,inf,5.000 ± 0.000,5.000 ± 0.000
+MDR (%),99.875,23.538 ± 1.348,20.725 ± 3.053

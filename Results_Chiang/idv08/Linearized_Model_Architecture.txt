@@ -1,0 +1,3 @@
+Initial number of neurons: 500
+	Mean number of non-linear neurons: 11.0
+	Mean number of linear neurons: 1.0
