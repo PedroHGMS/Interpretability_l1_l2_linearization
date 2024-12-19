@@ -1,0 +1,2 @@
+This is the repository for the paper "Improving explainability for fault diagnosis in complex chemical processes using combined regularization and linearization in neural network modeling" to be presented on the IEEE Symposium on Explainable, Responsible, and Trustworthy CI.
+The TEP notebook presents the full step-by-step code for the proposed method. The PCA notebook presents the full step-by-step code for reproducing the PCA results in our paper and in Chiang 2001.
